@@ -1,0 +1,16 @@
+Dirección: Sarmiento 100
+ - Planta: 1
+ - Número: 2
+ - Nombre del propietario: Enzo
+ - Apellido del propietario: Melian
+ - ¿Está alquilado? :No
+
+
+Dirección: Sarmiento 100
+ - Planta: 4
+ - Número: 1
+ - Nombre del propietario: Ariel
+ - Apellido del propietario: Zavala
+ - ¿Está alquilado? :Si
+ - Nombre del inquilino: Sofia
+ - Apellido del inquilino: Lavanda
